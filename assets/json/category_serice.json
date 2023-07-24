@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "imageCategoryProduct": "https://firebasestorage.googleapis.com/v0/b/et-ag-01.appspot.com/o/img_skin_spa.png?alt=media&token=da00fa75-f81d-4f0d-a0fe-963982736a7f",
+        "nameCategoryProduct": "Skin Spa"
+    },
+    {
+        "id": 2,
+        "imageCategoryProduct": "https://firebasestorage.googleapis.com/v0/b/et-ag-01.appspot.com/o/img_massage.png?alt=media&token=cc099264-c471-4ee5-a1d8-317bc053c234",
+        "nameCategoryProduct": "Massage"
+    },
+    {
+        "id": 3,
+        "imageCategoryProduct": "https://firebasestorage.googleapis.com/v0/b/et-ag-01.appspot.com/o/img_manicure.png?alt=media&token=43210b69-5ebe-4e69-b80d-84d955936fc1",
+        "nameCategoryProduct": "Manicure"
+    },
+    {
+        "id": 4,
+        "imageCategoryProduct": "https://firebasestorage.googleapis.com/v0/b/et-ag-01.appspot.com/o/img_make_up.png?alt=media&token=06ae6053-f021-4156-9ac9-5ab730521c33",
+        "nameCategoryProduct": "Make-up"
+    }
+]

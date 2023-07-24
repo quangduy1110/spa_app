@@ -1,0 +1,414 @@
+[
+    {
+        "idBooking": 1,
+        "listService": [
+            {
+                "idService": "1",
+                "nameService": "Herbal shampoo",
+                "nameSpa": "Inova",
+                "categoryService": 1,
+                "introduce": "Herbal shampoo with 100% natural extracts, completely free of chemicals and preservatives.Step 1: Wet hair with warm waterStep 2: Conduct first herbal shampoo, help hair remove dirtStep 3 : Rinse the hair and wash it a second time, making it stronger Step 4: Rinse the hair then blow dry and finish",
+                "price": 50,
+                "rate": 5,
+                "address": "28/105 Doan Ke Thien, Cau Giay, Ha Noi",
+                "listTime": [
+                    {
+                        "star": "Monday",
+                        "end": "Friday",
+                        "timeStar": "09:00 am",
+                        "timeEnd": "21:00 pm"
+                    },
+                    {
+                        "star": "Saturday",
+                        "end": "Sunday",
+                        "timeStar": "10:00 am",
+                        "timeEnd": "21:00 pm"
+                    }
+                ],
+                "listImage": [
+                    {
+                        "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQP8EJLaMdBGJb3M44mgNK3GjnjQCLpB-jh-Q&usqp=CAU"
+                    },
+                    {
+                        "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEwiIdS1jyCZFOub1rHVQfBcgsXH1pbdC12Q&usqp=CAU"
+                    },
+                    {
+                        "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxiOcTH8jwfMP5l6mohe79xiaby_c4HAU_zw&usqp=CAU"
+                    }
+                ],
+                "listReview": [
+                    {
+                        "avatar": "",
+                        "name": "Do Quang Hau Style",
+                        "star": 4,
+                        "comment": "Good",
+                        "time": "1 min ago",
+                        "like": 24
+                    }
+                ],
+                "isOutstanding": 0
+            },
+            {
+                "idService": "2",
+                "nameService": "Diode Laser Hair Removal for Lips",
+                "nameSpa": "Inova",
+                "categoryService": 2,
+                "introduce": "Permanent hair removal has become an indispensable service in spas and beauty salons today. But not all hair removal services are the same. It is the difference of machines and technology that will bring about service experience as well as efficiency in the area of ​​the skin to be treated. Currently, the two most used technologies are IPL and Diode Laser.",
+                "price": 60,
+                "rate": 4,
+                "address": "28/105 Doan Ke Thien, Cau Giay, Ha Noi",
+                "listTime": [
+                    {
+                        "star": "Monday",
+                        "end": "Sunday",
+                        "timeStar": "10:00 am",
+                        "timeEnd": "21:00 pm"
+                    }
+                ],
+                "listImage": [
+                    {
+                        "url": "https://media.hasaki.vn/catalog/product/t/r/triet-long-mep_img_358x358_843626_fit_center.jpg"
+                    },
+                    {
+                        "url": "https://media.hasaki.vn/catalog/product/t/r/triet-long-vung-bung_img_358x358_843626_fit_center.jpg"
+                    },
+                    {
+                        "url": "https://media.hasaki.vn/catalog/product/t/r/triet-long-diode-laser-nguyen-tay_img_358x358_843626_fit_center.jpg"
+                    }
+                ],
+                "listReview": [
+                    {
+                        "avatar": "",
+                        "name": "Do Quang Hau Kitty",
+                        "star": 3,
+                        "comment": "Good",
+                        "time": "1 min ago",
+                        "like": 24
+                    },
+                    {
+                        "avatar": "",
+                        "name": "Do Quang Hau PRO",
+                        "star": 2,
+                        "comment": "Good Good",
+                        "time": "2 min ago",
+                        "like": 12
+                    },
+                    {
+                        "avatar": "",
+                        "name": "Do Quang Hau VIPP",
+                        "star": 4,
+                        "comment": "Nices",
+                        "time": "5 min ago",
+                        "like": 0
+                    }
+                ],
+                "isOutstanding": 1
+            },
+            {
+                "idService": "3",
+                "nameService": "Full Body Relaxation",
+                "nameSpa": "Inova",
+                "categoryService": 4,
+                "introduce": "Intensive relaxation massage is a method to help stimulate the body's cells to be active to increase excretion to promote health and rejuvenate your body.",
+                "price": 50,
+                "rate": 3,
+                "address": "28/105 Doan Ke Thien, Cau Giay, Ha Noi",
+                "listTime": [
+                    {
+                        "star": "Monday",
+                        "end": "Friday",
+                        "timeStar": "09:00 am",
+                        "timeEnd": "21:00 pm"
+                    },
+                    {
+                        "star": "Saturday",
+                        "end": "Sunday",
+                        "timeStar": "10:00 am",
+                        "timeEnd": "21:00 pm"
+                    }
+                ],
+                "listImage": [
+                    {
+                        "url": "https://media.hasaki.vn/catalog/product/t/h/thu-gian-toan-than-tinh-dau-biotone_img_358x358_843626_fit_center.jpg"
+                    }
+                ],
+                "listReview": [
+                    {
+                        "avatar": "",
+                        "name": "Do Quang Hau Style",
+                        "star": 4,
+                        "comment": "Good",
+                        "time": "1 min ago",
+                        "like": 24
+                    },
+                    {
+                        "avatar": "",
+                        "name": "Do Quang Hau PRO",
+                        "star": 5,
+                        "comment": "Good Good",
+                        "time": "2 min ago",
+                        "like": 12
+                    },
+                    {
+                        "avatar": "",
+                        "name": "Do Quang Hau Stylee",
+                        "star": 5,
+                        "comment": "Nices",
+                        "time": "5 min ago",
+                        "like": 0
+                    }
+                ],
+                "isOutstanding": 0
+            }
+        ],
+        "time": "2022-09-22 13:27:00",
+        "idStaff": 1,
+        "note": "Easy Please",
+        "status": 1,
+        "isRemid": false
+    },
+    {
+        "idBooking": 2,
+        "listService": [
+            {
+                "idService": "1",
+                "nameService": "Herbal shampoo",
+                "nameSpa": "Inova",
+                "categoryService": 1,
+                "introduce": "Herbal shampoo with 100% natural extracts, completely free of chemicals and preservatives.Step 1: Wet hair with warm waterStep 2: Conduct first herbal shampoo, help hair remove dirtStep 3 : Rinse the hair and wash it a second time, making it stronger Step 4: Rinse the hair then blow dry and finish",
+                "price": 50,
+                "rate": 5,
+                "address": "28/105 Doan Ke Thien, Cau Giay, Ha Noi",
+                "listTime": [
+                    {
+                        "star": "Monday",
+                        "end": "Friday",
+                        "timeStar": "09:00 am",
+                        "timeEnd": "21:00 pm"
+                    },
+                    {
+                        "star": "Saturday",
+                        "end": "Sunday",
+                        "timeStar": "10:00 am",
+                        "timeEnd": "21:00 pm"
+                    }
+                ],
+                "listImage": [
+                    {
+                        "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQP8EJLaMdBGJb3M44mgNK3GjnjQCLpB-jh-Q&usqp=CAU"
+                    },
+                    {
+                        "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEwiIdS1jyCZFOub1rHVQfBcgsXH1pbdC12Q&usqp=CAU"
+                    },
+                    {
+                        "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxiOcTH8jwfMP5l6mohe79xiaby_c4HAU_zw&usqp=CAU"
+                    }
+                ],
+                "listReview": [
+                    {
+                        "avatar": "",
+                        "name": "Do Quang Hau Style",
+                        "star": 4,
+                        "comment": "Good",
+                        "time": "1 min ago",
+                        "like": 24
+                    }
+                ],
+                "isOutstanding": 0
+            },
+            {
+                "idService": "3",
+                "nameService": "Full Body Relaxation",
+                "nameSpa": "Inova",
+                "categoryService": 4,
+                "introduce": "Intensive relaxation massage is a method to help stimulate the body's cells to be active to increase excretion to promote health and rejuvenate your body.",
+                "price": 50,
+                "rate": 3,
+                "address": "28/105 Doan Ke Thien, Cau Giay, Ha Noi",
+                "listTime": [
+                    {
+                        "star": "Monday",
+                        "end": "Friday",
+                        "timeStar": "09:00 am",
+                        "timeEnd": "21:00 pm"
+                    },
+                    {
+                        "star": "Saturday",
+                        "end": "Sunday",
+                        "timeStar": "10:00 am",
+                        "timeEnd": "21:00 pm"
+                    }
+                ],
+                "listImage": [
+                    {
+                        "url": "https://media.hasaki.vn/catalog/product/t/h/thu-gian-toan-than-tinh-dau-biotone_img_358x358_843626_fit_center.jpg"
+                    }
+                ],
+                "listReview": [
+                    {
+                        "avatar": "",
+                        "name": "Do Quang Hau Style",
+                        "star": 4,
+                        "comment": "Good",
+                        "time": "1 min ago",
+                        "like": 24
+                    },
+                    {
+                        "avatar": "",
+                        "name": "Do Quang Hau PRO",
+                        "star": 5,
+                        "comment": "Good Good",
+                        "time": "2 min ago",
+                        "like": 12
+                    },
+                    {
+                        "avatar": "",
+                        "name": "Do Quang Hau Stylee",
+                        "star": 5,
+                        "comment": "Nices",
+                        "time": "5 min ago",
+                        "like": 0
+                    }
+                ],
+                "isOutstanding": 0
+            }
+        ],
+        "time": "2022-09-22 13:30:00",
+        "idStaff": 2,
+        "note": "Ahihi",
+        "status": 1,
+        "isRemid": false
+    },
+    {
+        "idBooking": 3,
+        "listService": [
+            {
+                "idService": "3",
+                "nameService": "Full Body Relaxation",
+                "nameSpa": "Inova",
+                "categoryService": 4,
+                "introduce": "Intensive relaxation massage is a method to help stimulate the body's cells to be active to increase excretion to promote health and rejuvenate your body.",
+                "price": 50,
+                "rate": 3,
+                "address": "28/105 Doan Ke Thien, Cau Giay, Ha Noi",
+                "listTime": [
+                    {
+                        "star": "Monday",
+                        "end": "Friday",
+                        "timeStar": "09:00 am",
+                        "timeEnd": "21:00 pm"
+                    },
+                    {
+                        "star": "Saturday",
+                        "end": "Sunday",
+                        "timeStar": "10:00 am",
+                        "timeEnd": "21:00 pm"
+                    }
+                ],
+                "listImage": [
+                    {
+                        "url": "https://media.hasaki.vn/catalog/product/t/h/thu-gian-toan-than-tinh-dau-biotone_img_358x358_843626_fit_center.jpg"
+                    }
+                ],
+                "listReview": [
+                    {
+                        "avatar": "",
+                        "name": "Do Quang Hau Style",
+                        "star": 4,
+                        "comment": "Good",
+                        "time": "1 min ago",
+                        "like": 24
+                    },
+                    {
+                        "avatar": "",
+                        "name": "Do Quang Hau PRO",
+                        "star": 5,
+                        "comment": "Good Good",
+                        "time": "2 min ago",
+                        "like": 12
+                    },
+                    {
+                        "avatar": "",
+                        "name": "Do Quang Hau Stylee",
+                        "star": 5,
+                        "comment": "Nices",
+                        "time": "5 min ago",
+                        "like": 0
+                    }
+                ],
+                "isOutstanding": 0
+            }
+        ],
+        "time": "2022-09-22 13:25:00",
+        "idStaff": 3,
+        "note": "Ahuhu",
+        "status": 1,
+        "isRemid": false
+    },
+    {
+        "idBooking": 4,
+        "listService": [
+            {
+                "idService": "3",
+                "nameService": "Full Body Relaxation",
+                "nameSpa": "Inova",
+                "categoryService": 4,
+                "introduce": "Intensive relaxation massage is a method to help stimulate the body's cells to be active to increase excretion to promote health and rejuvenate your body.",
+                "price": 50,
+                "rate": 3,
+                "address": "28/105 Doan Ke Thien, Cau Giay, Ha Noi",
+                "listTime": [
+                    {
+                        "star": "Monday",
+                        "end": "Friday",
+                        "timeStar": "09:00 am",
+                        "timeEnd": "21:00 pm"
+                    },
+                    {
+                        "star": "Saturday",
+                        "end": "Sunday",
+                        "timeStar": "10:00 am",
+                        "timeEnd": "21:00 pm"
+                    }
+                ],
+                "listImage": [
+                    {
+                        "url": "https://media.hasaki.vn/catalog/product/t/h/thu-gian-toan-than-tinh-dau-biotone_img_358x358_843626_fit_center.jpg"
+                    }
+                ],
+                "listReview": [
+                    {
+                        "avatar": "",
+                        "name": "Do Quang Hau Style",
+                        "star": 4,
+                        "comment": "Good",
+                        "time": "1 min ago",
+                        "like": 24
+                    },
+                    {
+                        "avatar": "",
+                        "name": "Do Quang Hau PRO",
+                        "star": 5,
+                        "comment": "Good Good",
+                        "time": "2 min ago",
+                        "like": 12
+                    },
+                    {
+                        "avatar": "",
+                        "name": "Do Quang Hau Stylee",
+                        "star": 5,
+                        "comment": "Nices",
+                        "time": "5 min ago",
+                        "like": 0
+                    }
+                ],
+                "isOutstanding": 0
+            }
+        ],
+        "time": "2022-09-22 13:10:00",
+        "idStaff": 4,
+        "note": "3k",
+        "status": 2,
+        "isRemid": true
+    }
+]

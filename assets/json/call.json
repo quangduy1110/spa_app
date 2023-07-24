@@ -1,0 +1,69 @@
+[
+    {
+        "idUser": 1,
+        "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ567jIXSjv5L8rtOC3Gcgo4GcSQba81hrcVw&usqp=CAU",
+        "nameUser": "Cường",
+        "phoneNumber": "0386328935",
+        "listCall": 
+        [
+            {
+                "type": 1,
+                "time": "2022-09-21 13:27:00"
+            },
+            {
+                "type": 1,
+                "time": "2022-09-21 13:28:00"
+            }, 
+            {
+                "type": 2,
+                "time": "2022-09-21 13:29:00"
+            }, 
+            {
+                "type": 2,
+                "time": "2022-09-21 13:30:00"
+            }, 
+            {
+                "type": 1,
+                "time": "2022-09-22 13:31:00"
+            } 
+        ]
+    },
+    {
+        "idUser": 2,
+        "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzmsNv6O91oAyrGm9fVEgJvij03SygoUOl_g&usqp=CAU",
+        "nameUser": "Hào",
+        "phoneNumber": "0964396091",
+        "listCall": 
+        [
+            {
+                "type": 2,
+                "time": "2022-09-21 16:27:00"
+            },
+            {
+                "type": 2,
+                "time": "2022-09-21 13:28:00"
+            }
+        ]
+    },
+    {
+        "idUser": 3,
+        "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR91jzErjC1gksTNbDyJE1lx0VGetfQdcsjPw&usqp=CAU",
+        "nameUser": "Tôn",
+        "phoneNumber": "0386328935",
+        "listCall": 
+        [
+            {
+                "type": 2,
+                "time": "2022-09-21 13:27:00"
+            },
+            {
+                "type": 1,
+                "time": "2022-09-21 13:28:00"
+            }, 
+            {
+                "type": 0,
+                "time": "2022-09-22 13:29:00"
+            }
+        ]
+    }
+]

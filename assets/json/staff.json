@@ -1,0 +1,30 @@
+[
+    {
+        "idStaff": 1,
+        "imageStaff": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzmsNv6O91oAyrGm9fVEgJvij03SygoUOl_g&usqp=CAU",
+        "nameStaff": "Do Quang Hau",
+        "position": "Personnel",
+        "subPlaced": 50
+    },
+    {
+        "idStaff": 2,
+        "imageStaff": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR91jzErjC1gksTNbDyJE1lx0VGetfQdcsjPw&usqp=CAU",
+        "nameStaff": "Do Thanh Tom",
+        "position": "Massage",
+        "subPlaced": 40
+    },
+    {
+        "idStaff": 3,
+        "imageStaff": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ567jIXSjv5L8rtOC3Gcgo4GcSQba81hrcVw&usqp=CAU",
+        "nameStaff": "Can Cuong Cuongg CCC",
+        "position": "Personnel",
+        "subPlaced": 60
+    },
+    {
+        "idStaff": 4,
+        "imageStaff": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVvjWXHKt0J6FNwl-w88JdIY6a0tmOsXOzHQ&usqp=CAU",
+        "nameStaff": "Bim Bim",
+        "position": "Personnel",
+        "subPlaced": 45
+    }
+]

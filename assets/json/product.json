@@ -1,0 +1,207 @@
+[
+    {
+        "idProduct": "200500306",
+        "nameProduct": "Tresemme Sampoo",
+        "categoryProduct": 1,
+        "price": 50,
+        "imageProduct": [
+            {
+                "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBi4tGavlWdK2-bekPyZpLUL8INBlCD8AMD0Ri0IyM_ldoDwYlGooLmVh_DNVhTS8uUmE&usqp=CAU"
+            },
+            {
+                "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBi4tGavlWdK2-bekPyZpLUL8INBlCD8AMD0Ri0IyM_ldoDwYlGooLmVh_DNVhTS8uUmE&usqp=CAU"
+            }
+        ],
+        "quantity": 100,
+        "trademark": "Sampoo",
+        "origin": "Korea",
+        "madeIn": "Korea",
+        "capacity": "60ml",
+        "skinType": "All skin types",
+        "characteristic": "Day and night",
+        "sex": "Man and Woman",
+        "skinProblems": "Sensitive, easily irritated skin",
+        "isTrend": 1,
+        "isFeatured": 1,
+        "endow": {
+            "categoryEndow": 1,
+            "endow": 50,
+            "bought": 2,
+            "limit": 10
+        },
+        "productInformation": [
+            {
+                "content": "Argan from Morocco and keratin help nourish each hair strand, bringing the following 5 effects: Hair in place - Shiny - Soft - Reduces lint - Detangles immediately after use.",
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFKYYS8Rd3u9Ti08xKX6pmyAjJXr-WwkiRbQsxhSN0hPipws2dndxE-rPKdYKIRved3Q8&usqp=CAU"
+            },
+            {
+                "content": "Tresemmé Keratin Smooth Shampoo Argan Oil And Keratin In Smooth Lines 640g TRESemmé Keratin Smooth Shampoo Argan Oil & Keratin In Smooth Lines 640g is a professional shampoo specifically designed for dry and frizzy hair - TRESemmé's puppet. The special product formula with low sulfate concentration is suitable for frizzy and unruly hair and even dyed hair, combined with Argan oil ingredients from Morocco and Keratin to nourish each hair strand, bringing hair back to life. Hair is in order - shiny - soft, reduces lint - detangles.",
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDL-vk6onkqcoHsu9KIXjtnkwzH8f0TZ0mzqgE-cfSnAnyhtzfNue-ujEhCurftQAtdBU&usqp=CAU"
+            }
+        ]
+    },
+    {
+        "idProduct": "212345678",
+        "nameProduct": "Dolce Garden for women",
+        "categoryProduct": 3,
+        "price": 100,
+        "imageProduct": [
+            {
+                "url": "https://www.thegioinuochoa.com.vn/uploads/products/2018/05/image/20180521_085541.png"
+            },
+            {
+                "url": "https://www.thegioinuochoa.com.vn/uploads/products/2018/05/image/20180521_085541.png"
+            }
+        ],
+        "quantity": 101,
+        "trademark": "Dolce & Gabbana",
+        "origin": "Italy",
+        "madeIn": "Italy",
+        "capacity": "100ml",
+        "skinType": "All skin types",
+        "characteristic": "Day and night",
+        "sex": "Woman",
+        "skinProblems": "Sensitive, easily irritated skin",
+        "isTrend": 1,
+        "isFeatured": 0,
+        "endow": {
+            "categoryEndow": 0,
+            "endow": 0,
+            "bought": 0,
+            "limit": 1
+        },
+        "productInformation": [
+            {
+                "content": "Dolce Garden is a new women's fragrance from Dolce & Gabbana introduced in 2018. Dolce Garden is a floral-flavored fragrance that is said to radiate the joy of pleasurable experiences. It is described as a free-thinking and desirable fragrance for pleasurable experiences, inspired by the hues of the blooming Sicilian gardens.",
+                "image": "http://cdn-img-v2.webbnc.net/uploadv2/web/57/5769/media/2018/02/25/05/56/1519537635_nuoc-hoa-dolce-garden-dolce-gabbana-2.gif"
+            },
+            {
+                "content": "Dolce Garden opens with white flowers, fresh berries and fruit, evoking the Mediterranean sun. The heart is composed of petals of frangipani and coconut, said to create an extremely feminine and sunny aura. At the bottom, the perfume turns into a bit of flavor with vanilla and wood.",
+                "image": ""
+            }
+        ]
+    },
+    {
+        "idProduct": "212345654",
+        "nameProduct": "D&G Pour Femme",
+        "categoryProduct": 2,
+        "price": 100,
+        "imageProduct": [
+            {
+                "url": "https://www.thegioinuochoa.com.vn/uploads/products/2018/03/image/20180323_084216_3319.png"
+            },
+            {
+                "url": "https://www.thegioinuochoa.com.vn/uploads/products/2018/03/image/20180323_084216_3319.png"
+            }
+        ],
+        "quantity": 101,
+        "trademark": "Dolce & Gabbana",
+        "origin": "Italy",
+        "madeIn": "Italy",
+        "capacity": "60ml",
+        "skinType": "All skin types",
+        "characteristic": "Day and night",
+        "sex": "Woman",
+        "skinProblems": "Sensitive, easily irritated skin",
+        "isTrend": 0,
+        "isFeatured": 1,
+        "endow": {
+            "categoryEndow": 2,
+            "endow": 20,
+            "bought": 3,
+            "limit": 5
+        },
+        "productInformation": [
+            {
+                "content": "Dolce&Gabbana perfume currently has produced many perfumes from 1992 to 2015. In which, D&G pour femme is a classic perfume product for women with a feminine fragrance, belonging to the group of aldehydes - flowers. grass. D&G pour femme is the first perfume bottle by Dolce & Gabbana and was created in 1992 by IFF.",
+                "image": "https://www.thegioinuochoa.com.vn/uploads/default%2F2017%2F07%2F15006362260.jpg"
+            },
+            {
+                "content": "Floral compositions are based on contrasts: sweet and bitter, feminine and even slightly masculine. The top note is a fragrant citrus scent, including notes of mandarin orange, bergamot, basil & aldehyde mixed together to create a quite strong scent. Middle notes are jasmine, carnation, orange blossom & sweet tuberose to create femininity. Sandalwood is combined with the sweetness & aroma of vanilla, tonka bean and musk to bring a warm feeling to the user.",
+                "image": "https://www.thegioinuochoa.com.vn/uploads/default%2F2017%2F07%2F15006929080.jpg"
+            },
+            {
+                "content": "The perfume bottle has a simple design with a tall rectangle, the red bottle cap is made of transparent material to reveal the nozzle inside. D&G pour femme is considered a romantic scent that women often choose for romantic occasions. If you love floral scents of playfulness and lightness, then D&G is a perfect choice.",
+                "image": ""
+            }
+        ]
+    },
+    {
+        "idProduct": "212312345",
+        "nameProduct": "Paco Rabanne Olympéa EDP",
+        "categoryProduct": 2,
+        "price": 500,
+        "imageProduct": [
+            {
+                "url": "https://www.thegioinuochoa.com.vn/uploads/products/2021/10/image/1634021609.5843.png"
+            },
+            {
+                "url": "https://www.thegioinuochoa.com.vn/uploads/products/2021/10/image/1634021609.5843.png"
+            }
+        ],
+        "quantity": 20,
+        "trademark": "Paco Rabanne",
+        "origin": "Spain",
+        "madeIn": "Spain",
+        "capacity": "100ml",
+        "skinType": "All skin types",
+        "characteristic": "Day and night",
+        "sex": "Woman",
+        "skinProblems": "Sensitive, easily irritated skin",
+        "isTrend": 0,
+        "isFeatured": 0,
+        "endow": {
+            "categoryEndow": 0,
+            "endow": 0,
+            "bought": 0,
+            "limit": 0
+        },
+        "productInformation": [
+            {
+                "content": "Gift Set Paco Rabanne Olympéa EDP includes: 1. Olympea Paco Rabanne EDP (80ml) Floral Aquatic - Floral Aquatic. Bold, fresh, charismatic personality. Top Notes: Blue Mandarin, Water Jasmine, Ginger Flower. Middle Notes: Vanilla, Salt. Base Notes: Ambergris, Cashmere Wood, Sandalwood. 2. Olympea Paco Rabanne EDP (10ml)",
+                "image": ""
+            }
+        ]
+    },
+    {
+        "idProduct": "312345654",
+        "nameProduct": "Lancome Tresor La Nuit Musc Diamant",
+        "categoryProduct": 2,
+        "price": 320,
+        "imageProduct": [
+            {
+                "url": "https://www.thegioinuochoa.com.vn/uploads/products/2019/07/image/1562224057.4341.png"
+            },
+            {
+                "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBi4tGavlWdK2-bekPyZpLUL8INBlCD8AMD0Ri0IyM_ldoDwYlGooLmVh_DNVhTS8uUmE&usqp=CAU"
+            }
+        ],
+        "quantity": 101,
+        "trademark": "Lancôme",
+        "origin": "France",
+        "madeIn": "France",
+        "capacity": "60ml",
+        "skinType": "All skin types",
+        "characteristic": "Day and night",
+        "sex": "Woman",
+        "skinProblems": "Sensitive, easily irritated skin",
+        "isTrend": 1,
+        "isFeatured": 1,
+        "endow": {
+            "categoryEndow": 1,
+            "endow": 60,
+            "bought": 5,
+            "limit": 20
+        },
+        "productInformation": [
+            {
+                "content": "La Nuit Trésor Musc Diamant is like a seductive and passionate rose. La Nuit Trésor Musc Diamant fragrance will give the first impression of the gentle blueberry top note, gradually spreading into the stimulating floral note of Damascena Rose Essence before coming to the base note - the scent of La Nuit Trésor Musc Diamant. elegant white musk.",
+                "image": "https://www.thegioinuochoa.com.vn/uploads/galleries/2019/08/uri/1564714902.7668.png"
+            },
+            {
+                "content": "But the surprise is not over: The base note of white musk is interwoven with warm notes of vanilla and patchouli, giving the perfume a very different and truly enchanting charm. The all-new gemstone design of the La Nuit Trésor line, a white diamond: Creates softly refracted light and a symbol of power with unprecedented intensity.",
+                "image": ""
+            }
+        ]
+    }
+]

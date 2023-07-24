@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "imageCategoryProduct": "https://firebasestorage.googleapis.com/v0/b/et-ag-01.appspot.com/o/img_facialskincare.png?alt=media&token=4f840ff0-aed4-48ce-aec8-d21e5c5a6868",
+        "nameCategoryProduct": "Facial Skin Care"
+    },
+    {
+        "id": 2,
+        "imageCategoryProduct": "https://firebasestorage.googleapis.com/v0/b/et-ag-01.appspot.com/o/img_makeup.png?alt=media&token=18592fa1-2723-4a54-bebb-2da1144a36b2",
+        "nameCategoryProduct": "Make Up"
+    },
+    {
+        "id": 3,
+        "imageCategoryProduct": "https://firebasestorage.googleapis.com/v0/b/et-ag-01.appspot.com/o/img_tools_accessories.png?alt=media&token=5fff8f89-69e4-44fa-80eb-a8a301843e62",
+        "nameCategoryProduct": "Beauty Tools & Accessories"
+    },
+    {
+        "id": 4,
+        "imageCategoryProduct": "https://firebasestorage.googleapis.com/v0/b/et-ag-01.appspot.com/o/img_perfume.png?alt=media&token=7dc276ac-27f8-4d8f-a77a-62bb46823104",
+        "nameCategoryProduct": "Perfume"
+    },
+    {
+        "id": 5,
+        "imageCategoryProduct": "https://firebasestorage.googleapis.com/v0/b/et-ag-01.appspot.com/o/img_bath_bodycare.png?alt=media&token=3227d687-1793-4a22-b2e2-e93adfc0a645",
+        "nameCategoryProduct": "Bath & Body Care"
+    },
+    {
+        "id": 6,
+        "imageCategoryProduct": "https://firebasestorage.googleapis.com/v0/b/et-ag-01.appspot.com/o/img_haircare.png?alt=media&token=f48f6567-8977-4339-87b1-98812f7414e8",
+        "nameCategoryProduct": "Hair Care"
+    }
+]

@@ -1,0 +1,96 @@
+[
+    {
+        "idUser": 1,
+        "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ567jIXSjv5L8rtOC3Gcgo4GcSQba81hrcVw&usqp=CAU",
+        "nameUser": "Cường",
+        "listChat": 
+        [
+            {
+                "isSender": 0,
+                "type": 0,
+                "status": 1,
+                "content": "Hello",
+                "time": "2022-09-21 13:27:00"
+            },
+            {
+                "isSender": 1,
+                "type": 0,
+                "status": 1,
+                "content": "Hi",
+                "time": "2022-09-21 13:28:00"
+            }, 
+            {
+                "isSender": 0,
+                "type": 0,
+                "status": 1,
+                "content": "How are you?",
+                "time": "2022-09-21 13:29:00"
+            }, 
+            {
+                "isSender": 1,
+                "type": 0,
+                "status": 1,
+                "content": "I'm fine",
+                "time": "2022-09-21 13:30:00"
+            }, 
+            {
+                "isSender": 1,
+                "type": 0,
+                "status": 0,
+                "content": "OK",
+                "time": "2022-09-22 13:31:00"
+            } 
+        ]
+    },
+    {
+        "idUser": 2,
+        "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzmsNv6O91oAyrGm9fVEgJvij03SygoUOl_g&usqp=CAU",
+        "nameUser": "Hào",
+        "listChat": 
+        [
+            {
+                "isSender": 0,
+                "type": 0,
+                "status": 1,
+                "content": "What is your name?",
+                "time": "2022-09-21 16:27:00"
+            },
+            {
+                "isSender": 1,
+                "type": 0,
+                "status": 2,
+                "content": "My name is ...",
+                "time": "2022-09-21 13:28:00"
+            }
+        ]
+    },
+    {
+        "idUser": 3,
+        "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR91jzErjC1gksTNbDyJE1lx0VGetfQdcsjPw&usqp=CAU",
+        "nameUser": "Tôn",
+        "listChat": 
+        [
+            {
+                "isSender": 0,
+                "type": 0,
+                "status": 1,
+                "content": "Where are you from?",
+                "time": "2022-09-21 13:27:00"
+            },
+            {
+                "isSender": 1,
+                "type": 0,
+                "status": 1,
+                "content": "Hà Nội",
+                "time": "2022-09-21 13:28:00"
+            }, 
+            {
+                "isSender": 1,
+                "type": 0,
+                "status": 1,
+                "content": "How are you?",
+                "time": "2022-09-22 13:29:00"
+            }
+        ]
+    }
+]
